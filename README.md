@@ -28,7 +28,7 @@ BarButton for Mozilla Add-on SDK
 * **panel** - a panel to be shown when the user click on the barbutton . (optional)
 
 ## Methods
-* **collapsed** 
+**collapsed** 
 
 	// hide the barbutton
 	barbutton.collapsed(true);
@@ -36,7 +36,7 @@ BarButton for Mozilla Add-on SDK
 	// show the barbutton
 	barbutton.collapsed(false);
 
-* **setImage**
+**setImage**
 
 	// set Image of the barButton
 	barbutton.setImage(data.url("image.png"));
