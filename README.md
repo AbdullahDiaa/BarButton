@@ -45,4 +45,4 @@ BarButton for Mozilla Add-on SDK
 	barbutton.setImage(data.url("image.png"));
 
 ## Addons using it
-https://github.com/AbdullahDiaa/tos-checker
+* https://github.com/AbdullahDiaa/tos-checker
