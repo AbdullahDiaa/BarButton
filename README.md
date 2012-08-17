@@ -22,6 +22,9 @@ BarButton for Mozilla Add-on SDK
 		
 	};
 	
+## Screenshot
+![BarButton screenshot](https://dl.dropbox.com/u/18317770/barbutton.png)
+
 ## Options
 * **id** (required)
 * **image** (required)
